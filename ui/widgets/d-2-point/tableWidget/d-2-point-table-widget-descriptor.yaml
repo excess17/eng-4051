@@ -1,0 +1,6 @@
+code: d-2-point-table-widget
+titles:
+  en: D 2 Point Table Widget
+  it: D 2 Point Table Widget
+group: free
+customUiPath: d-2-point-table-widget.ftl
