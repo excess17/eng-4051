@@ -1,0 +1,13 @@
+code: eng4051-bundle
+description: This is the eng4051 bundle
+
+components:
+  plugins:
+    - plugins/eng4051-plugin.yaml
+
+  widgets:
+    - ui/widgets/d-2-point/tableWidget/d-2-point-table-widget-descriptor.yaml
+    - ui/widgets/d-2-point/detailsWidget/d-2-point-details-widget-descriptor.yaml
+    - ui/widgets/d-2-point/formWidget/d-2-point-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
